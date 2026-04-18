@@ -154,7 +154,7 @@ rag-document-qa/
 
 **Karthik Mudenahalli Ashoka**
 - MS in Applied Artificial Intelligence, Stevens Institute of Technology
-- [LinkedIn](https://linkedin.com/in/your-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/m-a-karthik/)
 - [GitHub](https://github.com/Karthik-Mudenahalli-Ashoka)
 
 ---
