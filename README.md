@@ -156,7 +156,10 @@ rag-document-qa/
 - MS in Applied Artificial Intelligence, Stevens Institute of Technology
 - [LinkedIn](https://www.linkedin.com/in/m-a-karthik/)
 - [GitHub](https://github.com/Karthik-Mudenahalli-Ashoka)
-
+**Sirisha Manjunathan**
+- MS in Data Science, Stevens Institute of Technology
+- [LinkedIn](https://www.linkedin.com/in/sirisha-m-970206238/)
+- [GitHub](https://github.com/sirishavasisht)
 ---
 
 ## 📄 License
